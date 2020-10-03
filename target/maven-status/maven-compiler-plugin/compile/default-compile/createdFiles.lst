@@ -1,0 +1,15 @@
+com/renatoandrade/com/projetofinalprogweb2/entity/Locacao_.class
+com/renatoandrade/com/projetofinalprogweb2/dao/ClienteDao.class
+com/renatoandrade/com/projetofinalprogweb2/JpaUtil/JpaUtil.class
+com/renatoandrade/com/projetofinalprogweb2/entity/Cliente_.class
+com/renatoandrade/com/projetofinalprogweb2/entity/Locacao.class
+com/renatoandrade/com/projetofinalprogweb2/controller/VeiculosController.class
+com/renatoandrade/com/projetofinalprogweb2/controller/LocacoesController.class
+com/renatoandrade/com/projetofinalprogweb2/entity/Veiculo_.class
+com/renatoandrade/com/projetofinalprogweb2/dao/VeiculoDao.class
+com/renatoandrade/com/projetofinalprogweb2/validations/numeroTelefone.class
+com/renatoandrade/com/projetofinalprogweb2/entity/Veiculo.class
+com/renatoandrade/com/projetofinalprogweb2/controller/ClientesController.class
+com/renatoandrade/com/projetofinalprogweb2/entity/Cliente.class
+com/renatoandrade/com/projetofinalprogweb2/dao/LocacaoDao.class
+com/renatoandrade/com/projetofinalprogweb2/validations/validacaoData.class

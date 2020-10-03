@@ -1,0 +1,12 @@
+/Users/renatoandrade.com/NetBeansProjects/ProjetoFinalProgWeb2/src/main/java/com/renatoandrade/com/projetofinalprogweb2/validations/validacaoData.java
+/Users/renatoandrade.com/NetBeansProjects/ProjetoFinalProgWeb2/src/main/java/com/renatoandrade/com/projetofinalprogweb2/entity/Cliente.java
+/Users/renatoandrade.com/NetBeansProjects/ProjetoFinalProgWeb2/src/main/java/com/renatoandrade/com/projetofinalprogweb2/entity/Veiculo.java
+/Users/renatoandrade.com/NetBeansProjects/ProjetoFinalProgWeb2/src/main/java/com/renatoandrade/com/projetofinalprogweb2/controller/ClientesController.java
+/Users/renatoandrade.com/NetBeansProjects/ProjetoFinalProgWeb2/src/main/java/com/renatoandrade/com/projetofinalprogweb2/JpaUtil/JpaUtil.java
+/Users/renatoandrade.com/NetBeansProjects/ProjetoFinalProgWeb2/src/main/java/com/renatoandrade/com/projetofinalprogweb2/entity/Locacao.java
+/Users/renatoandrade.com/NetBeansProjects/ProjetoFinalProgWeb2/src/main/java/com/renatoandrade/com/projetofinalprogweb2/controller/LocacoesController.java
+/Users/renatoandrade.com/NetBeansProjects/ProjetoFinalProgWeb2/src/main/java/com/renatoandrade/com/projetofinalprogweb2/dao/LocacaoDao.java
+/Users/renatoandrade.com/NetBeansProjects/ProjetoFinalProgWeb2/src/main/java/com/renatoandrade/com/projetofinalprogweb2/controller/VeiculosController.java
+/Users/renatoandrade.com/NetBeansProjects/ProjetoFinalProgWeb2/src/main/java/com/renatoandrade/com/projetofinalprogweb2/dao/ClienteDao.java
+/Users/renatoandrade.com/NetBeansProjects/ProjetoFinalProgWeb2/src/main/java/com/renatoandrade/com/projetofinalprogweb2/dao/VeiculoDao.java
+/Users/renatoandrade.com/NetBeansProjects/ProjetoFinalProgWeb2/src/main/java/com/renatoandrade/com/projetofinalprogweb2/validations/numeroTelefone.java
